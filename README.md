@@ -19,3 +19,5 @@ To manage college placement activities using a web portal.
 ## Purpose
 This project demonstrates local and remote
 repository management using Git.
+Remote update: Placement drive information updated.
+
